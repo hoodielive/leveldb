@@ -1,0 +1,23 @@
+{
+  "name": "leveldb",
+  "version": "1.0.0",
+  "description": "Explore levelDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoodielive/leveldb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoodielive/leveldb/issues"
+  },
+  "homepage": "https://github.com/hoodielive/leveldb#readme",
+  "dependencies": {
+    "level": "^4.0.0"
+  }
+}
